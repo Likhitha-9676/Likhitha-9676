@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="color:#00f0ff;text-shadow:0 0 10px #00f0ff,0 0 20px #8a2be2;">
-    Hi 👋, I'm Likhitha
+    Hi 👋, I'm Likhitha Thathireddy
   </span>
 </h1>
 
